@@ -17,7 +17,7 @@
 
 المثال التي يطبع لك وقت كل عملية تمت
 
-      router.use(function (req, res, next) {
+      app.use(function (req, res, next) {
        console.log('Time:', Date.now())
        next()
        })
