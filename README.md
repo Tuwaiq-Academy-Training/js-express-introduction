@@ -31,6 +31,7 @@
 تعد API، أو واجهة برمجة التطبيقات، مجموعة من القواعد التي تحدد كيفية اتصال أو تواصل التطبيقات أو الأجهزة مع بعضها البعض. وتعد REST API واجهة برمجة تطبيقات تتوافق مع مبادئ تصميم REST، أو النمط التصميمي لنقل حالة التمثيل. لهذا السبب، يشار أحيانا إلى واجهات برمجة تطبيقات REST API باسم RESTful APIs‏.
 
 
+
 ![image](https://cdn-ajfbi.nitrocdn.com/GuYcnotRkcKfJXshTEEKnCZTOtUwxDnm/assets/static/optimized/rev-2888e70/wp-content/uploads/2020/01/rest-768x580.png)
 
 #### كيف تعمل واجهة برمجة تطبيقات REST؟
